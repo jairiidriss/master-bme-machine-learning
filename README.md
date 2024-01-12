@@ -12,7 +12,7 @@ Master BME - Machine Learning and Deep Learning Course: Lecture slides and lab n
   </tr>
   <tr>
     <td>1</td>
-    <td>Introduction to Machine Learning</td>
+    <td>Classical Machine Learning</td>
     <td><a href="Link">Slides</a></td>
     <td><a href="slides">Demos</a></td>
     <td><a href="colab">Projects</a></td>
@@ -27,27 +27,6 @@ Master BME - Machine Learning and Deep Learning Course: Lecture slides and lab n
   <tr>
     <td>3</td>
     <td>Deep Learning for Computer Vision</td>
-    <td><a href="Link">Slides</a></td>
-    <td><a href="slides">Demos</a></td>
-    <td><a href="colab">Projects</a></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>YOLO for Object Detection</td>
-    <td><a href="Link">Slides</a></td>
-    <td><a href="slides">Demos</a></td>
-    <td><a href="colab">Projects</a></td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>U-NET for Biomedical Image Segementation</td>
-    <td><a href="Link">SLides</a></td>
-    <td><a href="slides">Demos</a></td>
-    <td><a href="colab">Projects</a></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Reinforcement Learning</td>
     <td><a href="Link">Slides</a></td>
     <td><a href="slides">Demos</a></td>
     <td><a href="colab">Projects</a></td>
